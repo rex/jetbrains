@@ -1,0 +1,32 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="DecrementWindowHeight" />
+  <action id="EditorGutterToggleGlobalLineNumbers">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="EditorGutterToggleGlobalSoftWraps">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="IncrementWindowHeight" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+</keymap>
