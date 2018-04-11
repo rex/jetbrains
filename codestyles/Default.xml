@@ -1,5 +1,14 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_BLOCK_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_ARGUMENT_DEFINITION" value="false" />
+    <option name="ALIGN_INSIDE_BINARY_EXPRESSION" value="false" />
+    <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
+    <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
+  </SqlCodeStyleSettings>
 </code_scheme>
