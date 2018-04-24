@@ -4,12 +4,12 @@
     <property name="created">2017-03-17T14:30:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-03-17T14:41:47</property>
+    <property name="modified">2018-04-24T12:14:52</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Hasklig" />
