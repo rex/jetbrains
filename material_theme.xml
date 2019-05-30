@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="e97e16" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="userId" value="-5311d970:16b0a15a9da:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>
