@@ -1347,5 +1347,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://10.10.1.10:5433/bock</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="252 Krypton - Bock" group="010 Colony" uuid="11f01457-ebfd-4d74-bf85-a4ba5ea3cf46">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.252.1.10:5433/bock</jdbc-url>
+    </data-source>
   </component>
 </application>
