@@ -673,9 +673,9 @@
       </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="Virtual VGS" group="951 Pierce" uuid="d2e68f38-2a6c-4869-b2d3-c49d21286162">
-      <driver-ref>mysql</driver-ref>
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/venus</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
