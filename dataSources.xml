@@ -1367,7 +1367,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="007 Allen - Bock" group="010 Colony" uuid="e861f10f-f0f0-4e6b-9f35-ccac4dc71ad5">
+    <data-source source="LOCAL" name="007 Allen - Bock" group="007 Allen" uuid="e861f10f-f0f0-4e6b-9f35-ccac4dc71ad5">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
